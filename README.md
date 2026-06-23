@@ -2,7 +2,7 @@
 
 > Predicting monthly tourism flux across 24 Tunisian governorates (2017–2025) using tabular ML and deep learning.
 
-📓 *Notebooks are written in French as this project was developed during studies at Université Paris-Dauphine Tunis.*
+*Notebooks are written in French as this project was developed during studies at Université Paris-Dauphine Tunis.*
 
 ## Overview
 
